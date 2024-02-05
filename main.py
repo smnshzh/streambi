@@ -122,6 +122,7 @@ def main():
 
             if choice == "ETL":
                     st.header("ETL (Extract, Transform, Load)")
+                    st.write("new one")
             if choice == "Modeling":
                     st.header("Modeling")
                 
